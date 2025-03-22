@@ -1,8 +1,7 @@
 ### Olá, me chamo Nicolas Pizzoni 👋🚀
 
 
-- 🔭 Atualmente trabalho com desenvolvimento front-end em React, Next e React Native;
-- 🌱 Atualmente aprendendo Next e SQL;
+- 🔭 Atualmente trabalho com desenvolvimento front-end em React e Angular;
 
 - ⚡ Fun fact: Me interesso pela área de programação desde meus 16 anos;
 <br />
